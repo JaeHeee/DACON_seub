@@ -7,7 +7,7 @@
 <br>
 
 ## To do
----
+
 - Data augmentation
     -
     ImageDataGenerator
@@ -17,3 +17,9 @@
     EarlyStopping  
     ReduceLROnPlateau  
     ModelCheckpoint
+
+- Data preprocessing
+    -
+    digit image  
+    alpabet image  
+    deskew
