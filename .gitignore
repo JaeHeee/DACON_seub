@@ -1,5 +1,6 @@
 .ipynb_checkpoints/
 data/
 submission/
+model/
 *.json
 *.h5
