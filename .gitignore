@@ -5,3 +5,5 @@ model/
 *.json
 *.h5
 *.csv
+*.pkl
+*.npy
