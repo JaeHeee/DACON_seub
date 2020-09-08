@@ -4,3 +4,4 @@ submission/
 model/
 *.json
 *.h5
+new_data/
