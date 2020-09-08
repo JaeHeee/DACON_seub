@@ -4,4 +4,7 @@ submission/
 model/
 *.json
 *.h5
+*.csv
+*.pkl
+*.npy
 new_data/
